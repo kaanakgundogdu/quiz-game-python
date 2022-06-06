@@ -10,5 +10,3 @@ question_data = {
 
 }
 question_data = resp.json()["results"]
-
-print(question_data)
