@@ -1,6 +1,5 @@
 import html
 import string
-from xmlrpc.client import Boolean
 
 
 class QuizBrain:
